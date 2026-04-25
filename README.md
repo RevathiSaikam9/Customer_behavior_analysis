@@ -3,7 +3,7 @@
 
 This project focuses on analyzing customer purchasing behavior using Python (EDA), SQL, and Power BI. The goal is to derive meaningful insights from customer data and present them through an interactive and visually appealing dashboard.
 
-# The dashboard helps understand:
+## The dashboard helps understand:
 
 Customer demographics
 Purchasing patterns
