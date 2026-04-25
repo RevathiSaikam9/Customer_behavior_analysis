@@ -64,7 +64,7 @@ Performed aggregation queries
 Built interactive dashboard
 Designed KPI cards and charts
 Applied filters for dynamic analysis
-📸 Dashboard Preview
+ Dashboard Preview
 
  Use Cases
 Customer segmentation
