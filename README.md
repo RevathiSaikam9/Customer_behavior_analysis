@@ -1,15 +1,15 @@
-📊 Customer Behavior Analysis Dashboard
-🚀 Project Overview
+# Customer Behavior Analysis Dashboard
+## Project Overview
 
 This project focuses on analyzing customer purchasing behavior using Python (EDA), SQL, and Power BI. The goal is to derive meaningful insights from customer data and present them through an interactive and visually appealing dashboard.
 
-The dashboard helps understand:
+# The dashboard helps understand:
 
 Customer demographics
 Purchasing patterns
 Product performance
 Impact of discounts and subscriptions
-🛠️ Tech Stack
+##Tech Stack
 Python – Data cleaning & Exploratory Data Analysis (EDA)
 SQL (MySQL) – Data storage & querying
 Power BI – Data visualization & dashboard creation
@@ -30,7 +30,7 @@ Discount Applied, Promo Code Used
 Previous Purchases
 Payment Method
 Frequency of Purchases
-📊 Dashboard Features
+## Dashboard Features
 🔹 Key Metrics
 Total Customers: 3.9K
 Average Purchase Amount: $59.76
@@ -46,12 +46,12 @@ Subscription Status
 Gender
 Category
 Shipping Type
-🔍 Key Insights
+## Key Insights
 Majority of customers are non-subscribers (73%)
 Clothing category generates the highest revenue and sales
 Young Adults contribute the most to revenue and purchases
 Discounts influence a significant portion of purchases
-⚙️ Project Workflow
+## Project Workflow
 1️⃣ Data Cleaning (Python)
 Handled missing values
 Standardized column formats
@@ -64,14 +64,14 @@ Performed aggregation queries
 Built interactive dashboard
 Designed KPI cards and charts
 Applied filters for dynamic analysis
- Dashboard Preview
+Dashboard Preview
 
- Use Cases
+## Use Cases
 Customer segmentation
 Marketing strategy optimization
 Product demand analysis
 Discount effectiveness evaluation
 Business decision support
 
-Conclusion
+## Conclusion
 This project demonstrates end-to-end data analysis — from raw data processing to business insights visualization — using industry-relevant tools.
